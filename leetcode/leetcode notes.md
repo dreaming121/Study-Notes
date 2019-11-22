@@ -37,3 +37,5 @@ Each time you can either climb 1 or 2 steps. In how many distinct ways can you c
 除此之外，通常对于这种问题的最基本解法为列举，
 内容如同下文：
 ![5](images\images70_Climbing_Stairs_rt.jpg)//
+尝试
+
